@@ -6,7 +6,7 @@
 		"identity": "sha256$9a95a09d2aca8ac1f708a68df9d1340e3f0e215d1b8aee3ccf03897c47567157" 
 	}, 
 	"image": "https://justineuro.github.io/obExcellent/B100-obme-1.png", 
-	"evidence": "https://justineuro.github.io/obExcellent/index.md", 
+	"evidence": "https://justineuro.github.io/obExcellent/", 
 	"issuedOn": "2019-01-31", 
 	"issuer": "https://justineuro.github.io/obExcellent/badge-issuer.json", 
 	"badge":  "https://justineuro.github.io/obExcellent/B100-obme-class-1.json", 
